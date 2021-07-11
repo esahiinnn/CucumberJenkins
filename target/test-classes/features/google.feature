@@ -1,3 +1,4 @@
+@ebayarama
 Feature: Google Title Test
   Scenario: Test
     Given User goes to google home page

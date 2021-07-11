@@ -10,7 +10,7 @@ public class GoogleTitleStepDefs {
     String title;
     @Given("User goes to google home page")
     public void userGoesToGoogleHomePage() {
-        Driver.getDriver().get("htttps://google.com");
+        Driver.getDriver().get("https://www.google.com");
     }
 
     @And("User gets the title of the page")
