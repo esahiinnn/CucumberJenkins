@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2021-07-12T08:48:27.721Z",
+        "start_timestamp": "2021-07-12T08:56:52.035Z",
         "line": 3,
         "name": "Test",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4600551000,
+              "duration": 5672730000,
               "status": "passed"
             },
             "line": 4,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 125147000,
+              "duration": 124001000,
               "status": "passed"
             },
             "line": 5,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 2385000,
+              "duration": 3710000,
               "status": "passed"
             },
             "line": 6,
